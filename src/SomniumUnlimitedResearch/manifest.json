@@ -1,0 +1,9 @@
+﻿{
+  "Id": "Somnium.SomniumUnlimitedResearch",
+  "Name": "SomniumUnlimitedResearch",
+  "Author": "Somnium",
+  "Version": "1.0.0",
+  "Description": "Unlimited research points (999)",
+  "EntryFile": "SomniumUnlimitedResearch.dll",
+  "MinimumApiVersion": "1.0.0"
+}
